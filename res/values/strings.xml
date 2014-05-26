@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vote4Song</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dogodki">Dogodki</string>
+    <string name="title_activity_glasbeniki">Glasbeniki</string>
+    <string name="naziv">Naziv</string>
+    <string name="shrani">Shrani</string>
+    <string name="preklici">Prekliči</string>
+    <string name="title_activity_dogodki_list">DogodkiList</string>
+    <string name="title_activity_singli_list">SingliList</string>
+    <string name="title_activity_zajem_qr">ZajemQRActivity</string>
+    <string name="title_activity_singli_vote">SingliVoteActivity</string>
+    <string name="title_activity_qrcode">QRCodeActivity</string>
+    <string name="title_activity_statistika">StatistikaActivity</string>
+    <string name="title_activity_list">ListActivity</string>
+
+</resources>
